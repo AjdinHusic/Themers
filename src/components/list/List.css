@@ -1,0 +1,13 @@
+ul {
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 6px;
+    width: fit-content;
+    min-width: 200px;
+    max-width: 200px;
+    list-style-type: none;
+}
+
+ul li {
+    margin: 6px;
+}
